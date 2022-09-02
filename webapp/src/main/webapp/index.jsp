@@ -591,6 +591,7 @@
             <a class="font-weight-semi-bold" href="https://htmlcodex.com">HTML Codex</a>
         </p>
     </div>
+    <br>
     <!-- Footer End -->
 
 
