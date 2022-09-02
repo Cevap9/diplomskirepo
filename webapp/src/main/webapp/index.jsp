@@ -591,9 +591,7 @@
             <a class="font-weight-semi-bold" href="https://htmlcodex.com">HTML Codex</a>
         </p>
     </div>
-    <br>
     <!-- Footer End -->
-
 
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-up"></i></a>
